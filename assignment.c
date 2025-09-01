@@ -1,2 +1,9 @@
-print("My name is Andrea")
-print("I like C language")
+#include<stdio.h>
+
+int main(){
+
+  printf("My name is Andrea");
+  printf("I like C language");
+  
+return 0;
+}
