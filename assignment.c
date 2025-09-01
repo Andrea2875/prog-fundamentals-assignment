@@ -2,8 +2,8 @@
 
 int main(){
 
-  printf("My name is Andrea");
-  printf("I like C language");
+  printf("My name is Andrea\n");
+  printf("I like C language\n");
   
 return 0;
 }
